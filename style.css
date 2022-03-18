@@ -1,0 +1,80 @@
+
+header{
+    background-color: lightblue;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Sansita Swashed', cursive;
+    text-align: center;
+}
+h1{
+    margin: auto;
+}
+p{
+    font-size: 18px;
+}
+.main-contain{
+    display: flex;
+    align-items: center;
+}
+
+.left-area img{
+    width: 100%;
+}
+.contact-us{
+    background-color: bisque;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.formc{
+    display: flex;
+    flex-direction: column;
+}
+footer{
+    text-align: center;
+    background-color: rgb(148, 224, 243);
+}
+footer p{
+    margin: 0;
+    font-size: 16px;
+    padding: 15px;
+}
+.right-area{
+    font-family: 'Roboto Mono', monospace;
+}
+form input{
+    font-size: 17px;
+    margin: 5px;
+    border-radius: 3px;
+    border: 0;
+    padding: 5px;
+}
+form input[type=submit]{
+    background-color: rgb(146, 224, 207);
+}
+header button{
+    padding: 10px;
+    border-radius: 5px;
+    border:none;
+    font-size: 15px;
+    background-color: rgb(43, 226, 186);
+    color: white;
+}
+header p{
+    margin: 50px;
+}
+.navbar a{
+    text-decoration: none;
+}
+.header-content{
+    
+}
+body{
+    margin: 0px;
+    padding: 0;
+    font-family: 'Sansita Swashed', cursive;
+    
+}
+
